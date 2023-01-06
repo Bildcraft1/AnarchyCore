@@ -1,0 +1,15 @@
+name: AnarchyCore
+version: '${project.version}'
+main: com.whixard.anarchycore.AnarchyCore
+api-version: 1.19
+prefix: AnarchyCore
+authors: [ WhiXard ]
+description: AnarchyCore
+website: whixonio.net
+commands:
+  anarchycore:
+    description: AnarchyCore
+    usage: /anarchycore
+    aliases: [ ac ]
+    permission: anarchycore.command.anarchycore
+    permission-message: You do not have permission to use this command.

@@ -1,0 +1,5 @@
+blocked-words:
+  - "blocked word 1"
+
+anti-force-op: true
+anti-log4j: true
